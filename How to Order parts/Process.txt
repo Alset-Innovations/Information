@@ -1,0 +1,17 @@
+All component orders must be made through HHS.  It is highly recommended to choose either Conrad or Farnell when sourcing components as there are no shipping costs for these suppliers. Some other possible suppliers can be found in the list above (however, for suppliers other than Conrad and Farnell, please confirm with Zoja whether your chosen supplier is indeed possible before placing your order). 
+
+To place an order
+
+    Create a list of all the components in MSExcel using the template above. 
+    Rename the file with the following format  PROJE4 2023 Component Order List Group Number.xlsx, where Number is replaced by the number of your specific group.
+    Make a final check of component packages to make sure that they are appropriate for hand soldering.
+    Make one last double check of the component availability and delivery times.
+    Send an email with your complete order list to Zoja Donne (Z.Donne@hhs.nl) and include the course organizer in CC (Stephen O'Loughlin S.D.Oloughlin@hhs.nl)
+    Keep checking with Zoja about delivery times until you receive your components.  Don't wait forever for an email saying that they have arrived.
+
+PCB orders
+
+    For PCB orders you can follow the same procedure as above.  Just enter your order information at the bottom of the excel sheet.  You must then also include your design files (Gerber) as an attachment in the email to Zoja.  
+    Presently, the only approved supplier for PCBs is Eurocircuits.
+
+It is essential that students order their components as early as possible in order to avoid delays waiting for components to arrive.  Also, before placing an order remember to always check for availability and delivery times.
